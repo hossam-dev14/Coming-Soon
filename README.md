@@ -25,6 +25,7 @@
     </a>
 </h3>
   
+  
 <!-- Description -->
 ## Description
 
@@ -40,7 +41,7 @@ it's fully responsive for all kind of devices includ tabletes and mobiles.
  - Bootstrap v3.3.5
  - Particles.js
  - Fittext.js
- - Simple Line Icones
+ - Simple Line Icons
  - Google Web Fonts
  - Full Screen Background Image
 
