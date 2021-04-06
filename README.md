@@ -1,5 +1,5 @@
 <!-- The Header -->
-<h1 align="center">Coming Soon</h1>
+<h1 align="">Coming Soon</h1>
 
 <!-- TABLE OF CONTENTS -->
 
