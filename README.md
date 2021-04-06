@@ -8,6 +8,7 @@
 - [Overview](#overview)
 - [Description](#description)
 - [Features](#features)
+- [Version](#version)
 - [Contact](#contact)
 
 
@@ -33,7 +34,25 @@ it's fully responsive for all kind of devices includ tabletes and mobiles.
  
  
 <!-- Features -->
+## Features
+ - Fully Responsive
+ - HTML5 and CSS3
+ - Bootstrap v3.3.5
+ - Particles.js
+ - Fittext.js
+ - Simple Line Icones
+ - Google Web Fonts
+ - Full Screen Background Image
+
+
+<!-- Version -->
+## Version 0.0.1
 
 
 <!-- Contact -->
+## Contact
+
+- GitHub [@hossam-dev14](https://github.com/hossam-dev14)
+- Twitter [@hossam-dev](https://twitter.com/hossam-dev)
+
 
