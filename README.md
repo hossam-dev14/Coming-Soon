@@ -7,6 +7,7 @@
 
 - [Overview](#overview)
 - [Description](#description)
+  - [Version](#version)
 - [Features](#features)
 - [Version](#version)
 - [Contact](#contact)
@@ -24,7 +25,7 @@
       Demo
     </a>
 </h3>
-  
+ 
   
 <!-- Description -->
 ## Description
@@ -32,7 +33,11 @@
 Coming Soon is a creative and modern coming soon page, 
 coming with subscription form, particles background and fittext for responsive text, 
 it's fully responsive for all kind of devices includ tabletes and mobiles.
- 
+
+<!-- Version -->
+### Version
+ - Version 0.0.1
+
  
 <!-- Features -->
 ## Features
@@ -44,10 +49,6 @@ it's fully responsive for all kind of devices includ tabletes and mobiles.
  - Simple Line Icons
  - Google Web Fonts
  - Full Screen Background Image
-
-
-<!-- Version -->
-## Version 0.0.1
 
 
 <!-- Contact -->
