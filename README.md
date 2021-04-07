@@ -32,7 +32,7 @@
 
 Coming Soon is a creative and modern coming soon page, 
 coming with subscription form, particles background and fittext for responsive text, 
-it's fully responsive for all kind of devices includ tabletes and mobiles.
+it's fully responsive for all kinds of devices include tablets and mobiles.
 
 <!-- Version -->
 ### Version
