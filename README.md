@@ -30,9 +30,7 @@
 <!-- Description -->
 ## Description
 
-Coming Soon is a creative and modern coming soon page, 
-coming with subscription form, particles background and fittext for responsive text, 
-it's fully responsive for all kinds of devices include tablets and mobiles.
+Coming Soon is a creative and modern coming soon page, coming with subscription form, particles.js background, and fittext.js for responsive text, it's fully responsive for all kinds of devices including tablets and mobiles.
 
 <!-- Version -->
 ### Version
