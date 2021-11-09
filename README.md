@@ -52,7 +52,8 @@ Coming Soon is a creative and modern coming soon page, coming with subscription 
 <!-- Contact -->
 ## Contact
 
-- GitHub [@hossam-dev14](https://github.com/hossam-dev14)
+- Gmail [hossam-dev14](mailto:hossamdev14@gmail.com)
+- Website [hossam-dev14](https://hossam-dev14.github.io/)
 - Twitter [@hossam-dev](https://twitter.com/hossam-dev)
 
 
